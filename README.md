@@ -1,5 +1,5 @@
-Hi there 👋, I'm Mwayi Fortune Solomon Kamvantope
-I'm a self taught software developer.
+### Hi there 👋, I'm Mwayi Fortune Solomon Kamvantope
+#### I'm a self taught software developer.
 ![I'm a self taught software developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 But you can call me MALEDIXION. 
