@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**MFS05Maledixion/MFS05Maledixion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name's Mwayi and I work at [@CRXD DYSTOPYR](#) An Indie Game Studio where I make [3D Games](https://youtube.com/c/crxd_dystopyr), and post updates on [Twitter](https://twitter.com/mk_maledixion)
+- Before all that, I was a (mostly JavaScript) Full-Stack Web Developer and Developer Advocate ( I'm Still available for work though )
+- You can still find some of my projects and contributions here on GitHub but I don't code as much as I would like 👾! Right now I'm focused on building my indie studio into a AAA Studio 😁👍🏿
 
-Here are some ideas to get you started:
+## Projects
+- [AIDAR (Artificial Intelligence-based Dietary Analysis and Recommendation) System] (private repo 🔑)
+- [Ubongo App] (private repo 🔑)
+- [Arcade Snake Game](https://github.com/MFS05Maledixion/snake-py)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notes
+- I'll try my best to keep updating this account and make cool projects to help y'all.
+
+### OVERALL, I LOVE THIS COMMUNITY 🫶🏿, KEEP COMMITING GEEKS 🧑🏿‍💻
