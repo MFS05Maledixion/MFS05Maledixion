@@ -12,9 +12,11 @@
 - You can still find some of my projects and contributions here on GitHub but I don't code as much as I would like 👾! Right now I'm focused on building my indie studio into a AAA Studio 😁👍🏿
 
 ## Projects
+- [ECHOS OF THE VOID] (private repo 🔑)
+- [INSIMOS MAZE] (private repo 🔑)
 - [AIDAR (Artificial Intelligence-based Dietary Analysis and Recommendation) System] (private repo 🔑)
-- [Ubongo App] (private repo 🔑)
-- [Arcade Snake Game](https://github.com/MFS05Maledixion/snake-py)
+- [UBONGO APP] (private repo 🔑)
+- [OLD SNAKE GAME](https://github.com/MFS05Maledixion/snake-py)
 
 ## My values
 :open_hands:  **Teamwork** makes everyone stronger <br/>
