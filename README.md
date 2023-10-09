@@ -16,7 +16,7 @@
 - [INSIMOS MAZE] (private repo 🔑)
 - [AIDAR (Artificial Intelligence-based Dietary Analysis and Recommendation) System] (private repo 🔑)
 - [UBONGO APP] (private repo 🔑)
-- [OLD SNAKE GAME](https://github.com/MFS05Maledixion/snake-py)
+- [OLD SNAKE GAME](https://github.com/MFS05Maledixion/snake-py) (public repo 🔓)
 
 ## My values
 :open_hands:  **Teamwork** makes everyone stronger <br/>
