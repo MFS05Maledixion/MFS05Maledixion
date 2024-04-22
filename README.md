@@ -20,7 +20,7 @@
 
 ![MFS05Maledixion's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MFS05Maledixion&theme=monokai&hide_border=false)
 
-![MFS05Maledixion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MFS05Maledixion&theme=monokai&show_icons=true&hide_border=false&layout=donut-horizontal)
+![MFS05Maledixion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MFS05Maledixion&theme=monokai&show_icons=true&hide_border=false&layout=donut-vertical)
 
 ## My values
 :open_hands:  **Teamwork** makes everyone stronger <br/>
