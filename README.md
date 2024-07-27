@@ -7,7 +7,7 @@
 ####  :spaghetti: Otaku Noodle Master & :computer: I'm Geeked Up
 
 ## Hi there 👋
-- My name's Mwayi and I am the Founder & CEO & Sole Lead Developer at [@CRXD DYSTOPYR](#) An Indie Game Studio where I make [3D Games](https://youtube.com/c/crxd_dystopyr), and post updates on [Twitter](https://twitter.com/mk_maledixion)
+- My name's Mwayi and I am the Founder & CEO & Sole Lead Developer at [@CRXD DYSTOPYR](#) An Indie Game Studio where I make [3D Games](https://youtube.com/c/crxd_dystopyr), and post updates on [Twitter](https://x.com/crxd_dystopyr)
 - Before all that, I was a (mostly JavaScript) Full-Stack Web Developer and Developer Advocate ( I'm Still available for work though )
 - You can still find some of my projects and contributions here on GitHub but I don't code as much as I would like 👾! Right now I'm focused on building my indie studio into a AAA Studio 😁👍🏿
 
@@ -34,7 +34,7 @@
 
 ## Get in touch 
 My site: [mfskamvantope.netlify.app](https://mfskamvantope.netlify.app/)
-Twitter: [@crxd_dystopyr](https://twitter.com/crxd_dystopyr)
+Twitter: [@crxd_dystopyr](https://x.com/crxd_dystopyr)
 Linkedin: [@mfskamvantope05](https://linkedin.com/in/mfskamvantope05)
 Email 1: mwayifkamvantope@gmail.com
 Email 2: kamvantope.mfs.official01@gmail.com
