@@ -1,7 +1,9 @@
 
 # Mwayi Kamvantope  - @MFS05Maledixion
 #### Game Developer 🎮 | Software Engineer 👨🏿‍💻<br/>
-#### Frontend:  Typescript | React | TailwindCss | Nextjs <br/>
+#### Engine of Choice: Unity + C# | Unreal Engine + Blueprints <br/>
+#### Mobile Dev:  Flutter | ReactNative <br/>
+#### Frontend:  JS (TS) | React | TailwindCss | Nextjs <br/>
 #### Backend: Node.js | Firebase <br/>
 #### Dev-Ops: Netlify | Github Actions / Pages <br/>
 ####  :spaghetti: Otaku Noodle Master & :computer: I'm Geeked Up
