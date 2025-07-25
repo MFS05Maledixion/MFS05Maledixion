@@ -21,7 +21,7 @@ I'm **Mwayi Kamvantope**, a 24-year-old Malawi-based full-stack developer and in
   <a href="https://youtube.com/@dreamradgames"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
   <a href="https://instagram.com/crxd_dystopyr"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
   <a href="https://x.com/crxd_dystopyr"><img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
-  <a href="https://discord.com/users/dreamrad_games"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
+<!--   <a href="https://discord.com/users/dreamrad_games"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a> -->
   <a href="https://linkedin.com/in/mfskamvantope05"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
 </div>
 
