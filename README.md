@@ -5,8 +5,7 @@
 
 ## 🧍‍♂️ About Me
 
-I'm **Mwayi Kamvantope**, a 24-year-old Malawi-based full-stack developer and indie game designer on a mission to become the **world's greatest game designer and storyteller**.  
-I pour life into pixels, logic into dreams, and meaning into play.
+I'm **Mwayi Kamvantope**, a 24-year-old Malawi-based full-stack developer and indie game designer on a mission to become the **world's greatest game designer and storyteller**.
 
 ✨ **Faith** – ✝️ JESUS CHRIST is my Creator  
 🌍 **Origin** – Born and raised in Malawi 🇲🇼  
