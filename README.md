@@ -17,7 +17,7 @@ I'm **Mwayi Kamvantope**, a 24-year-old Malawi-based full-stack developer and in
 ## 🔗 Connect with Me
 
 <div align="left">
-  <a href="https://dreamrad.games"><img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
+  <a href="https://dreamradgames.vercel.app"><img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
   <a href="https://youtube.com/@dreamradgames"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
   <a href="https://instagram.com/crxd_dystopyr"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
   <a href="https://x.com/crxd_dystopyr"><img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" /></a>
@@ -30,12 +30,6 @@ I'm **Mwayi Kamvantope**, a 24-year-old Malawi-based full-stack developer and in
 ## 🎮 My Games
 
 > **POP A CORN (Release Date to be announced soon)**
-
----
-
-## 💼 Portfolio / Featured Project
-
-🔗 Visit my portfolio: [DREAMRAD GAMES INTERACTIVE](https://dreamradgames.vercel.app)
 
 ---
 
