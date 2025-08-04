@@ -96,7 +96,7 @@ I'm **Mwayi Kamvantope**, a 24-year-old Malawi-based full-stack developer and in
 <summary>🧙‍♂️ A whisper for the daring...</summary>
 
 > "The mind that imagines is the soul that ascends.  
-> Your story matters — design it well."
+> Your story matters ... design it well."
 
 </details>
 
