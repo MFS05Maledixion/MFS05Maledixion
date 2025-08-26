@@ -29,6 +29,7 @@ I'm **Mwayi Kamvantope**, a 24-year-old Malawi-based full-stack developer and in
 ## 🎮 My Games
 
 > **POP A CORN** (🎮 Coming Soon!)
+> **PROJECT: ROGUES** (🎮 Coming Soon!)
 
 ---
 
